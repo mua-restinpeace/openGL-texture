@@ -1,0 +1,4 @@
+D:/belajar coding/C++/OpenGL/texture/build/CMakeFiles/glad.dir
+D:/belajar coding/C++/OpenGL/texture/build/CMakeFiles/HelloOpenGL.dir
+D:/belajar coding/C++/OpenGL/texture/build/CMakeFiles/edit_cache.dir
+D:/belajar coding/C++/OpenGL/texture/build/CMakeFiles/rebuild_cache.dir

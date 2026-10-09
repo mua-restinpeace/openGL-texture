@@ -1,0 +1,18 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.configureSettings": {
+        "CMAKE_C_COMPILER": "C:/msys64/ucrt64/bin/gcc.exe",
+        "CMAKE_CXX_COMPILER": "C:/msys64/ucrt64/bin/g++.exe"
+    },
+    "cmake.environment": {
+        "PATH": "C:\\msys64\\ucrt64\\bin;C:\\msys64\\usr\\bin"
+    },
+    "cmake.launchEnvironment": {
+        "PATH": "C:\\msys64\\ucrt64\\bin;C:\\msys64\\usr\\bin"
+    },
+    "cmake.debugConfig": {
+        "type": "cppdbg",
+        "request": "launch",
+        "cwd": "${workspaceFolder}"
+    }
+}

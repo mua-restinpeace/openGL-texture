@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/belajar coding/C++/OpenGL/texture/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\glad.dir\\includes_C.rsp -g -o CMakeFiles\\glad.dir\\external\\glad\\src\\gl.c.obj -c \"D:\\belajar coding\\C++\\OpenGL\\texture\\external\\glad\\src\\gl.c\"",
+  "file": "D:/belajar coding/C++/OpenGL/texture/external/glad/src/gl.c",
+  "output": "CMakeFiles/glad.dir/external/glad/src/gl.c.obj"
+},
+{
+  "directory": "D:/belajar coding/C++/OpenGL/texture/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\HelloOpenGL.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HelloOpenGL.dir\\src\\main.cpp.obj -c \"D:\\belajar coding\\C++\\OpenGL\\texture\\src\\main.cpp\"",
+  "file": "D:/belajar coding/C++/OpenGL/texture/src/main.cpp",
+  "output": "CMakeFiles/HelloOpenGL.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/belajar coding/C++/OpenGL/texture/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\HelloOpenGL.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\HelloOpenGL.dir\\src\\shaderManager.cpp.obj -c \"D:\\belajar coding\\C++\\OpenGL\\texture\\src\\shaderManager.cpp\"",
+  "file": "D:/belajar coding/C++/OpenGL/texture/src/shaderManager.cpp",
+  "output": "CMakeFiles/HelloOpenGL.dir/src/shaderManager.cpp.obj"
+}
+]
